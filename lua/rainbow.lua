@@ -27,13 +27,10 @@ function M.init()
             end,
             extended_mode = true,
             colors = {
-                "#cc241d",
-                "#a89984",
-                "#b16286",
-                "#d79921",
-                "#689d6a",
-                "#d65d0e",
-                "#458588",
+                "#00FFFF",
+                "#66ff00",
+                "#FFFF00",
+                "#FF00CD",
             },
             termcolors = {
                 "Red",
